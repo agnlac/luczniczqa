@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+/// <references types="Cypress" />
 
 describe('Test #1', () => {
   it('should open google.com', () => {
